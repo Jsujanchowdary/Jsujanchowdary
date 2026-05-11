@@ -316,7 +316,7 @@ Conversational analytics pipeline over PDFs, CSVs & Excel using FAISS vector sto
 
 *Open to full-time roles in Cloud Engineering, DevOps, and AI/ML*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-sujan-chowdary-39027021b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jujjavarapu-sujan-chowdary-39027021b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-j-sujan-chowdary.streamlit.app/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdarysujan27@gmail.com)
 
