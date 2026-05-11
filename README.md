@@ -14,7 +14,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-sujan-chowdary-39027021b/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jujjavarapu-sujan-chowdary-39027021b/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-j-sujan-chowdary.streamlit.app/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdarysujan27@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-60+_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jsujanchowdary)
