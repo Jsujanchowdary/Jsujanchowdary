@@ -69,7 +69,7 @@ Open To     : Full-time Roles in Cloud / DevOps / AI Engineering
 <td>
 
 **IT R&D Intern — Cloud & Network Services (Product & Engineering)**<br/>
-`Nokia` &nbsp;·&nbsp; Bangalore, Karnataka &nbsp;·&nbsp; `2025 – Present`
+`Nokia` &nbsp;·&nbsp; Bangalore, Karnataka &nbsp;·&nbsp; `2025 – 2026`
 
 - Working with **Docker, Kubernetes, Golang, gRPC, and Jenkins** in a cloud-native enterprise environment
 - Developing tools for **Performance Management & Fault Management** to improve monitoring and service ops
